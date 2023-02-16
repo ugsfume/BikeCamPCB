@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BikeCam_sym")(type "KiCad")(uri "${KIPRJMOD}/BikeCam_sym.kicad_sym")(options "")(descr ""))
+)
